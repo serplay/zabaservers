@@ -1,0 +1,26 @@
+{
+    "mainMenu": {
+      "state": "W menu",
+      "largeImageText": "Menu"
+    },
+    "loadingGame": {
+      "state": "\u0142adowanie \u015Bwiata",
+      "largeImageText": "Majnkampf",
+      "details": "Modpack %d modow"
+    },
+    "inGame": {
+      "multiPlayer": {
+        "largeImageText": {
+          "unknown": "Serwer nieznajomego",
+          "ip": "IP: %s"
+        },
+        "state": "Granie z mordami \u003Asunglasses\u003A\u003Acall\u005Fme\u003A",
+        "details": "Nickname: %s"
+      },
+      "singlePlayer": {
+        "state": "Samotne gra\u0144sko..",
+        "largeImageText": "\u015Bwiat: %s",
+        "details": "Nickname: %s"
+      }
+    }
+  }
