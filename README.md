@@ -1,5 +1,4 @@
-# Uplink Data
+# Żaba rozpiechdol
 
-This branch is where all official display data is stored. In the future, servers will be able to send a new url for client mods to use.
+Dane pod serwer minecraft na modach serwera żaba.
 
-**Note:** All files must be named as specified: `<client id>.json`
